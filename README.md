@@ -1,3 +1,7 @@
+این مثالی از attribute directive است که کار هایلایت کردن کلامات انتخابی در متن رو انجام میده میتونید در جاهایی که کاربر سرج انجام میده استفاده کنید تا در نتایج سرج کلامات مد نظر هایلایت شوند
+
+
+
 # AttributeDirective
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
@@ -57,3 +61,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+ 
