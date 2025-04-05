@@ -6,7 +6,7 @@ import { Directive, ElementRef, HostListener, Input,  SimpleChanges ,Renderer2} 
 })
 export class HighlightDirective {
 @Input() highlightText='';
-@Input() highlightColor='';
+@Input() highlightColor='yellow';
 orginalhtml='';
 
  constructor(private el:ElementRef , private renderer: Renderer2) { }
